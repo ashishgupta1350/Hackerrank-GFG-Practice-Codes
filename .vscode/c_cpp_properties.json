@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "C:\\Program Files (x86)\\mingw-w64\\i686-7.1.0-posix-dwarf-rt_v5-rev0\\mingw32\\include"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-7.1.0-posix-dwarf-rt_v5-rev0\\mingw32\\bin\\gcc.exe",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
