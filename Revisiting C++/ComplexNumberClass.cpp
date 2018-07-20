@@ -12,6 +12,12 @@ public:
 	}
 	Complex add (Complex c2);
 	Complex subtract(Complex c2);
+	Complex operator ++ ()
+	{
+		real+=1;
+		img+=1;
+		Complex c3(real,img);return c3;
+	}
 	// complex operator + (complex c2);
 	// complex operator - (complex c2);
 	void printComplex();
@@ -56,4 +62,23 @@ int main()
 	Complex c2(3,4);
 	Complex c3 = c1+c2;
 	c3.printComplex();
+	c1.printComplex();
+	
+	++c1;
+	c1.printComplex();
+
 }
+// T& T::operator++() // pre-increment, return *this by reference
+// {
+//  // perform operation
+
+
+//  return *this;
+// }
+
+// T T::operator++(int) // post-increment, return unmodified copy by value
+// {
+//      T copy(*this);
+//      ++(*this); // or operator++();
+//      return copy;
+// }
