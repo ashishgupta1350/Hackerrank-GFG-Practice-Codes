@@ -1,0 +1,131 @@
+Let me start by categorising the "IT companies" you are talking about.
+According to me, there are 4 categories.
+1. Extremely Brilliant companies (Facebook, Google types).
+2. Excellent ones (Adobe, Oracle India, Goldman Sachs).
+3. Above average companies (which offer anything between 5lacs - 10 lacs).
+4. Average companies (where 70-80% of Engineering folks are placed. Egs are TCS,Infosys,Accenture etc etc).
+
+The only advice I can provide, pertaining to the top 3 categories, is make to Data Structures your life. Do as much coding as you can. Rest, look for other answers on Quora.
+
+I will provide an elaborated answer for the 4th category, where majority of our fellow students are placed.
+
+APTITUDE TEST
+First of all, you need to know that majority of companies conduct their Aptitude test online. And 100% of them are objective type.
+Sections covered under this head are:-
+1. Quantitative Aptitude.
+2. Logical Reasoning.
+3. Verbal.
+
+QUANT
+Only 1 book - "QUANTITATIVE APTITUDE BY R.S AGGARWAL"
+This book is indispensable for aptitude exams. No other book will clear you concepts as profoundly as this one. Many times, questions are asked directly from this book (with same numerical values).
+Always keep in mind that not all the topics within Quant are equally important.
+Lay more emphasis on topics like :-
+1. Time & Work.
+2. Number Systems.
+3. Probability, Permutation & Combination (Little differences between these 2 topics).
+4. Time & Distance.
+5. Percentages & Ratios.
+6. Profit & Loss.
+
+But, the questions asked vary from company to company, so don't take risk and try to cover as much as you can.
+There are some topics which you can wholeheartedly discard :-
+1. Stocks & Shares.
+2. Races & Games of Skill.
+3. Logarithms.
+4. True Discount.
+5. Banker's Discount.
+
+P.S - This book will also help you in preparing for government exams as well.
+
+LOGICAL
+As such, I didn't refer to any book for this section. But if you want, you can go for "VERBAL & NON VERBAL REASONING BY R.S AGGARWAL".
+Again, all topics are not supposed to be given equal efforts. Pay more heed to :-
+1. Series Completion (Extremely important).
+2. Puzzle Test (more commonly called as Seating Arrangement)
+3. Blood relations.
+4. Direction test.
+5. Coding Decoding
+
+Usually, from what I have seen, picture based questions are not asked. Or even if they are, they are in scarce amount. But still, I don't want you to take a risk.
+Again, this book too will help you in cracking government exams.
+
+VERBAL
+Most common questions asked in this section are :-
+1. Reading Comprehension (Extremely important).
+2. Para Jumbles.
+3. Fill in the blanks (Based on Grammar).
+4. Synonyms & Antonyms.
+5. Summary of a Para (Don't worry, options will be there)
+
+For this section, read as much as you can. Reading will improve your comprehension and also vocabulary. Reading will help you in all of the above mentioned topics.
+I referred to just online material for this section.
+Go to websites like:-
+http://www.indiabix.com/
+Make this website your bible. This single source can place you in multiple companies. It contains interview experiences, previous placement papers, section wise questions and what not. Every resource you require is there on this website.
+All the Best!!!
+P.S This was only about "APTITUDE SECTION". Write in comments if you want me to write an answer on the "TECHNICAL SECTION" too.
+
+EDIT 1
+TECHNICAL SECTION
+Look at this section from two point of views:-
+1. Written Section.
+2. Interview.
+
+But topics to be covered and approach will be same, so I'll provide a consolidated answer.
+In both of these sections, the subjects to be covered are :-
+1. c/c++ (extremely important).
+2. Data Structure (extremely important).
+3. Operating System.
+4. Database MGMT system (mainly SQL queries & normalisation)
+5. Java (varies sharply from company to company. Electronics students can ask interviewer not to ask questions for this subject. CS/IT students are supposed to answer questions from this topic, but even if you don't, it'll not decide your fate ).
+6. Computer Networks (Rarely asked).
+7. Software Engineering (Rarely asked).
+
+You need to cover these subjects in this given order of preference only.
+
+C/C++
+Give just 1 day to basics like how many data types are there, their values, the operators and their order of preference & Associativity (this is imp) etc.
+Try to do as many output based questions as you can, they will always be there in written exams.
+Pointers - I know this is our childhood fear, and that is why this topic is never left out. Start from basics and cover advanced level. Especially output based.
+Also cover Arrays, Strings, Structures and Unions.
+For C++ - concepts of inheritance, polymorphism, difference b/w C and C++, Constructors/Destructors, memory allocation using new and Delete, Operator overloading (I know Operator overloading of Objects is difficult. Don't do that. Do it just for Simple types).
+
+Needless to say, programming will play an important role. It doesn't matter whether you code in C/C++/Java. Programming can be asked in various ways. I mean, they can ask you to write a code to show runtime polymorphism. This question is not focussed to check your programming skills, but your concepts.
+Or they can ask you to write a program to print upper triangle. This is directly checking your skills. Start from simple programs like printing prime numbers, GCD of two numbers etc to advanced level. Again http://www.indiabix.com/ will help you in this regard.
+File handling can be left out. I have never heard of anyone asking questions from this section.
+I read C language from "Let us C - Yashwant kanetkar" and C++ from "Mastering C++ - Venugopal". But you can refer any book you want. Also do not purchase these if you already have any.
+
+Data Structures
+Another important topic. Read about Linked list, Circular LL, Doubly LL, Stacks, Queues, Circular Queues. Their concepts as well as programs.
+For trees, graphs and hashing, just understand concept, no need to do their programming.
+For trees, no need to go beyond AVL trees or B-trees. Red Black tree/Splay trees are never asked. Infact Binary Search Tree is single most important thing and nothing else.
+I referred to Schaum Series for this subject and google for programs.
+
+Operating System
+Get a good command on numerical questions as they are asked in written. Numericals like those on Scheduling & LRU.
+Study the concepts of deadlock, process synchronisation, types of OS etc.
+
+DBMS
+Only 2 topics from this subject(as already mentioned). SQL & Normalisation.
+For SQL, Ivan Bayross is awesome book. Read about varies queries like GROUP BY, HAVING, ALTER TABLE, VIEWS etc. Questions are asked to just test your concepts. No tricky question is asked. If you know about all the Queries, it will become a cake walk for you.
+NORMALISATION - you should know its definition, about different normal forms, and how to decompose a table into these normal forms given their dependencies.
+Sometimes, basic questions are asked like what are ACID properties, advantages of DBMS over file systems.
+Books - Ivan Bayross for SQL and internet for normalisation.
+
+Java
+First of all, only core java is supposed to be done. Never expect advanced java in the interview of mass recruiters. Even if they ask, you can politely refuse to answer it.
+In core java, questions can be asked from packages, interfaces, what is Dynamic Method Dispatch, wrapper classes, boxing unboxing, Exception handling.
+I think the most famous book for java is herbert schildt. Refer to version 3 or above. Version 1 and 2 are outdated.
+
+Computer Networks
+Rarely asked, still if time is left, read this subject too. Read about OSI model, TCP/IP model, their differences.
+Sorry,I cannot provide much insight in this topic. I left it during my preparation, and would have asked interviewer to switch the subject.
+
+Software Engineering
+Questions can be asked like what is SDLC, different types of SDLC models, unit and system testing. (mainly these 3 only).
+But also read about alpha/beta testing, and know what is the purpose of various models like COCOMO, Putnam etc. Just the purpose, no insights.
+
+I wish to conclude it by saying that there are several factors which will decide your selection/rejection in a company. One of my friend gave all the answers correctly in an interview and didn't get selected and the other one who gave just half of the answers correct was. It is important to give as elaborate and articulate answers as you can. Be wary of what you are saying as questions are asked from your answers only.
+Also talk to as many seniors as you can about placements. Everyone will add one or the other thing to your domain of what is supposed to be done. Here I have presented the experience of 10-15 people I have talked to.
+All the best once again !!!
